@@ -1,0 +1,9 @@
+numpy
+torch
+torchvision
+Pillow
+timm==0.4.9
+slideio
+opencv-python
+pytorch_lightning
+scikit-image

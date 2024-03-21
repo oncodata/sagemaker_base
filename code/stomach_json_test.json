@@ -1,0 +1,1817 @@
+[
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/b8c9be9b-af38-4513-91ac-aaeca74ddbf0/TCGA-CD-8532-01A-01-TS1.ee90c932-1579-4b59-a184-2179bcc38c79.svs",
+    "dataset": "Primary Tumor",
+    "participant": "8532",
+    "size_gb": 0.131683999,
+    "size_img": [
+      37849,
+      37996
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/86599f00-8f3f-4bee-b30b-1e15e9448286/TCGA-CD-8532-01A-01-BS1.e01efe12-5158-4005-a007-2e44f7b6e20b.svs",
+    "dataset": "Primary Tumor",
+    "participant": "8532",
+    "size_gb": 0.181589889,
+    "size_img": [
+      47809,
+      37323
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/dcfcab10-6436-4a98-bea6-19583e663417/TCGA-CG-4300-01A-01-BS1.cf2c4da6-8d1b-48c4-bc56-ab73cd45170b.svs",
+    "dataset": "Primary Tumor",
+    "participant": "4300",
+    "size_gb": 0.135567085,
+    "size_img": [
+      18000,
+      16352
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/a86a640e-ede7-468c-a47f-66b6ccd80e4f/TCGA-CG-4300-01A-01-TS1.5c8873ec-9a1d-4985-a961-95430644b8f0.svs",
+    "dataset": "Primary Tumor",
+    "participant": "4300",
+    "size_gb": 0.060499507,
+    "size_img": [
+      14000,
+      17347
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/4c078f65-65c3-4743-846e-c52351c8962a/TCGA-CG-4442-01A-01-TS1.56803b06-35e2-4b96-b062-8fd22963a80c.svs",
+    "dataset": "Primary Tumor",
+    "participant": "4442",
+    "size_gb": 0.040222013,
+    "size_img": [
+      10000,
+      11447
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/a9cfb95d-18b9-4a13-bbbb-791f240a4888/TCGA-CG-4442-01A-01-BS1.52056c85-0c01-4e67-a4b0-284e0f76b971.svs",
+    "dataset": "Primary Tumor",
+    "participant": "4442",
+    "size_gb": 0.089246239,
+    "size_img": [
+      16000,
+      14300
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/46f2c4cb-1f22-4d42-8d23-63d5a00c9658/TCGA-D7-6526-01A-01-TS1.422a96b9-349c-4b50-8440-d45fcc0098f5.svs",
+    "dataset": "Primary Tumor",
+    "participant": "6526",
+    "size_gb": 0.069679449,
+    "size_img": [
+      23981,
+      30528
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/3c75bff7-b58b-43e9-9eaf-d416c3a821f0/TCGA-D7-6526-01A-01-BS1.dac7c80f-1a7f-40e1-bf6a-e99fd513be93.svs",
+    "dataset": "Primary Tumor",
+    "participant": "6526",
+    "size_gb": 0.061030921,
+    "size_img": [
+      25896,
+      23500
+    ]
+  },
+  {
+    "image_tag": "Solid Tissue Normal",
+    "image_path": "/tmp/train-data/a21c6e29-b054-4651-8749-8ebb1f991478/TCGA-BR-7704-11A-01-TS1.6c34edf8-bedc-40f4-b473-8a2c8d23afcb.svs",
+    "dataset": "Solid Tissue Normal",
+    "participant": "7704",
+    "size_gb": 0.218034805,
+    "size_img": [
+      92087,
+      48586
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/7085e450-d67d-4093-9923-a112baffd99c/TCGA-BR-7704-01A-01-BS1.e7919b39-a1b0-4e85-bda6-5746bdc3393e.svs",
+    "dataset": "Primary Tumor",
+    "participant": "7704",
+    "size_gb": 0.164898295,
+    "size_img": [
+      36451,
+      42544
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/be8c120b-7cfd-4250-958b-6ea4dbe72507/TCGA-D7-5578-01A-01-BS1.9f452dad-3e66-4346-8278-61ffebbd6185.svs",
+    "dataset": "Primary Tumor",
+    "participant": "5578",
+    "size_gb": 0.062355145,
+    "size_img": [
+      14000,
+      12122
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/8f7150de-80af-4b9c-a294-02370f867b61/TCGA-D7-5578-01A-01-TS1.5be0df68-4c65-46d8-a058-3d01b01358d7.svs",
+    "dataset": "Primary Tumor",
+    "participant": "5578",
+    "size_gb": 0.022426211,
+    "size_img": [
+      8000,
+      11186
+    ]
+  },
+  {
+    "image_tag": "Solid Tissue Normal",
+    "image_path": "/tmp/train-data/2bb4dc93-6b05-4423-8857-2c850878730a/TCGA-HU-8238-11A-01-TS1.ad5bb85b-385f-46c5-9f50-b70776333ae6.svs",
+    "dataset": "Solid Tissue Normal",
+    "participant": "8238",
+    "size_gb": 0.073472549,
+    "size_img": [
+      19992,
+      15722
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/6ed2b4cc-4191-4e50-8d4c-19089d0692f2/TCGA-HU-8238-01A-01-TS1.6876723d-7208-4e2c-85cc-5c55cbc2caa8.svs",
+    "dataset": "Primary Tumor",
+    "participant": "8238",
+    "size_gb": 0.091408645,
+    "size_img": [
+      18088,
+      22758
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/98fc2e92-aea7-496a-80a6-4bbb5a9a5dae/TCGA-D7-6818-01A-01-TS1.e009208d-299a-403d-a171-91054f531b9c.svs",
+    "dataset": "Primary Tumor",
+    "participant": "6818",
+    "size_gb": 0.100190489,
+    "size_img": [
+      29736,
+      23730
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/24bec41c-63b0-4b3b-81bc-b0448467ce90/TCGA-D7-6818-01A-01-BS1.22f6557a-1030-40ed-83a5-2c8cda4acd41.svs",
+    "dataset": "Primary Tumor",
+    "participant": "6818",
+    "size_gb": 0.091992549,
+    "size_img": [
+      32368,
+      35277
+    ]
+  },
+  {
+    "image_tag": "Solid Tissue Normal",
+    "image_path": "/tmp/train-data/1c461568-89c3-487a-8551-b0e71e50dcb1/TCGA-BR-4294-11A-01-BS1.d865893a-19eb-43d2-9210-00c7ad62bfcc.svs",
+    "dataset": "Solid Tissue Normal",
+    "participant": "4294",
+    "size_gb": 0.155472047,
+    "size_img": [
+      24001,
+      16150
+    ]
+  },
+  {
+    "image_tag": "Solid Tissue Normal",
+    "image_path": "/tmp/train-data/89581244-3227-4ee7-b238-5589dafd295a/TCGA-BR-4294-11A-01-TS1.59a111e7-01e2-40c1-918c-25449d7dcec5.svs",
+    "dataset": "Solid Tissue Normal",
+    "participant": "4294",
+    "size_gb": 0.124273839,
+    "size_img": [
+      24001,
+      14886
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/31968a7e-96ae-42ff-bf9d-76c26029777c/TCGA-CD-8536-01A-01-BS1.3cc76417-d39c-4583-9041-ecfeb5703b00.svs",
+    "dataset": "Primary Tumor",
+    "participant": "8536",
+    "size_gb": 0.240154353,
+    "size_img": [
+      45817,
+      48947
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/e589c7f7-6d3b-45af-b020-11a350c40812/TCGA-CD-8536-01A-01-TS1.f1787a98-0614-4099-a7fc-c9b977f63c48.svs",
+    "dataset": "Primary Tumor",
+    "participant": "8536",
+    "size_gb": 0.054130723,
+    "size_img": [
+      47809,
+      21839
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/cc58afdf-8faf-420b-8d3a-6c916319479d/TCGA-CG-4465-01A-01-TS1.29b6c510-0d0f-408d-b46e-27ac8fe1cef2.svs",
+    "dataset": "Primary Tumor",
+    "participant": "4465",
+    "size_gb": 0.080545135,
+    "size_img": [
+      14000,
+      14294
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/2ffbbc70-5cfb-4edc-b7f2-3d64b6c2d1e0/TCGA-CG-4465-01A-01-BS1.7ee70822-5756-4863-b8d5-79e177481217.svs",
+    "dataset": "Primary Tumor",
+    "participant": "4465",
+    "size_gb": 0.127350485,
+    "size_img": [
+      18000,
+      18263
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/61eeb0ad-c5d7-4e89-85ef-504be66d0c0a/TCGA-CG-5718-01A-01-BS1.0d6beb19-5d43-4def-92d1-b98838579bdb.svs",
+    "dataset": "Primary Tumor",
+    "participant": "5718",
+    "size_gb": 0.124905387,
+    "size_img": [
+      16000,
+      20165
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/ea401d67-3347-41c4-9ec3-02e6cd300638/TCGA-CG-5718-01A-01-TS1.f4a813d6-e5cc-475b-a0eb-45cfcd1c0730.svs",
+    "dataset": "Primary Tumor",
+    "participant": "5718",
+    "size_gb": 0.103464405,
+    "size_img": [
+      16000,
+      18251
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/0c777133-f5fd-438c-838e-2265b567f97c/TCGA-CG-4305-01A-01-TS1.e79aa788-2661-4ed5-955d-f5392bf6582d.svs",
+    "dataset": "Primary Tumor",
+    "participant": "4305",
+    "size_gb": 0.053433943,
+    "size_img": [
+      12000,
+      13632
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/846f9df0-f8f7-430c-96d3-05891fdafd93/TCGA-CG-4305-01A-01-BS1.aa5a9ef2-3818-4e0c-8870-5436a695cb2f.svs",
+    "dataset": "Primary Tumor",
+    "participant": "4305",
+    "size_gb": 0.096309405,
+    "size_img": [
+      20000,
+      16505
+    ]
+  },
+  {
+    "image_tag": "Solid Tissue Normal",
+    "image_path": "/tmp/train-data/b37ed849-879b-421c-89a6-39ccfe1c1074/TCGA-HU-A4GH-11A-01-TS1.1B488F2A-8B1E-40B6-A638-3A78F23622F5.svs",
+    "dataset": "Solid Tissue Normal",
+    "participant": "A4GH",
+    "size_gb": 0.092423253,
+    "size_img": [
+      39839,
+      22278
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/523450d5-8b49-4efd-952d-87922e909c5d/TCGA-HU-A4GH-01A-01-TS1.FEAEF8D4-602C-42E3-B15B-08F8DF3FA4A8.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A4GH",
+    "size_gb": 0.220678351,
+    "size_img": [
+      94248,
+      23242
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/297301fa-aa5d-4657-8b22-b0bdc46d5f0b/TCGA-D7-6528-01A-01-BS1.de90c928-498b-460e-b695-8eed57df9b29.svs",
+    "dataset": "Primary Tumor",
+    "participant": "6528",
+    "size_gb": 0.100128947,
+    "size_img": [
+      27888,
+      37460
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/ea6b50b1-aec7-49af-80ed-f5a537facc39/TCGA-D7-6528-01A-01-TS1.0ef23045-2cf3-4d8d-be52-d4bbde04b752.svs",
+    "dataset": "Primary Tumor",
+    "participant": "6528",
+    "size_gb": 0.031826675,
+    "size_img": [
+      21103,
+      29991
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/0afd227b-110a-49b2-9e4f-f0397ea1cda0/TCGA-HU-A4HB-01A-01-TS1.7F75B114-AC0E-42A9-9ED6-89518E9EA21A.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A4HB",
+    "size_gb": 0.197085687,
+    "size_img": [
+      85680,
+      27386
+    ]
+  },
+  {
+    "image_tag": "Solid Tissue Normal",
+    "image_path": "/tmp/train-data/33aa557f-8017-472c-8e1c-b348fba2b744/TCGA-HU-A4HB-11A-01-TS1.37BD7B69-4428-4906-AA6E-F59242D52B4D.svs",
+    "dataset": "Solid Tissue Normal",
+    "participant": "A4HB",
+    "size_gb": 0.057746423,
+    "size_img": [
+      47808,
+      12534
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/815ec7cd-325c-4e56-b76f-60f4dd47d619/TCGA-CG-4441-01A-01-TS1.e1036cdd-b186-49e7-b90c-7855145f9608.svs",
+    "dataset": "Primary Tumor",
+    "participant": "4441",
+    "size_gb": 0.081515531,
+    "size_img": [
+      14000,
+      16579
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/15addd66-96c8-4188-8eb5-ee62119654e4/TCGA-CG-4441-01A-01-BS1.cca509d5-0658-4065-ab4f-2e625cd69eba.svs",
+    "dataset": "Primary Tumor",
+    "participant": "4441",
+    "size_gb": 0.089908481,
+    "size_img": [
+      18000,
+      16491
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/fb417f87-b30a-48f7-8067-a44009208a50/TCGA-CD-8525-01A-01-TS1.42e17019-de0e-4573-8fb6-fb653adca7cb.svs",
+    "dataset": "Primary Tumor",
+    "participant": "8525",
+    "size_gb": 0.067464081,
+    "size_img": [
+      23904,
+      33560
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/62950f11-452e-4c2e-83ec-5523c5f78c27/TCGA-CD-8525-01A-01-BS1.dbba44bc-40d7-4d42-b30d-a1d814fa670b.svs",
+    "dataset": "Primary Tumor",
+    "participant": "8525",
+    "size_gb": 0.183618985,
+    "size_img": [
+      45817,
+      48947
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/396f4835-fbf6-4b92-a36b-a7b83d7be490/TCGA-D7-5577-01A-01-BS1.604ce676-d3f1-4800-9c7c-7a7ffbe17ff1.svs",
+    "dataset": "Primary Tumor",
+    "participant": "5577",
+    "size_gb": 0.093038569,
+    "size_img": [
+      16000,
+      16977
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/6afec62c-339b-4feb-aba3-a4db1def8852/TCGA-D7-5577-01A-01-TS1.23c82cd3-2bc2-409f-8325-038a2a0fac29.svs",
+    "dataset": "Primary Tumor",
+    "participant": "5577",
+    "size_gb": 0.050480915,
+    "size_img": [
+      14000,
+      15172
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/76f3df14-61c0-49ea-9a7b-91f05a2d125c/TCGA-CG-4466-01A-01-BS1.57dc8784-b3c8-46c6-8fb3-25653ab71c49.svs",
+    "dataset": "Primary Tumor",
+    "participant": "4466",
+    "size_gb": 0.072793553,
+    "size_img": [
+      14000,
+      13780
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/e2c0c562-827d-41aa-a45b-bc06abb932af/TCGA-CG-4466-01A-01-TS1.d8b9d9d4-3326-4ffc-b813-e0c8657aa7f0.svs",
+    "dataset": "Primary Tumor",
+    "participant": "4466",
+    "size_gb": 0.034488773,
+    "size_img": [
+      12000,
+      10189
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/7f0e035a-cae1-476a-a7cb-b6f73d502be2/TCGA-D7-6520-01A-01-BS1.06365ca8-5a94-4987-81a5-a6b08d9a7b5f.svs",
+    "dataset": "Primary Tumor",
+    "participant": "6520",
+    "size_gb": 0.114911295,
+    "size_img": [
+      39840,
+      30623
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/14b72d7a-f820-41c9-b01e-a40e57355cb2/TCGA-D7-6520-01A-01-TS1.9183a911-0fcb-435c-9738-6f9045452d7d.svs",
+    "dataset": "Primary Tumor",
+    "participant": "6520",
+    "size_gb": 0.038758931,
+    "size_img": [
+      40288,
+      28889
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/13cdc504-db40-4588-8de8-6455d7531617/TCGA-D7-6518-01A-01-BS1.43420704-66d5-444d-ade3-50612f8abea6.svs",
+    "dataset": "Primary Tumor",
+    "participant": "6518",
+    "size_gb": 0.082883281,
+    "size_img": [
+      31872,
+      34364
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/310e61e1-7e4d-4c6f-ab7f-0aa32253c311/TCGA-D7-6518-01A-01-TS1.3a086a4d-89c8-43b2-8693-87dc3b295b4d.svs",
+    "dataset": "Primary Tumor",
+    "participant": "6518",
+    "size_gb": 0.034566393,
+    "size_img": [
+      27818,
+      27518
+    ]
+  },
+  {
+    "image_tag": "Solid Tissue Normal",
+    "image_path": "/tmp/train-data/9a66dd8f-35d4-4c90-845c-f3faf2218d42/TCGA-HU-A4GY-11A-01-TS1.63A3B7C0-63D1-4A3C-8325-79A4513A81BA.svs",
+    "dataset": "Solid Tissue Normal",
+    "participant": "A4GY",
+    "size_gb": 0.037984785,
+    "size_img": [
+      39840,
+      13449
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/ff1d55f3-8647-4f35-9f8a-5d5d60a020c2/TCGA-HU-A4GY-01A-02-TS2.AEA314D2-E6F3-4CA3-B9CB-6DA34C4106B5.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A4GY",
+    "size_gb": 0.135083411,
+    "size_img": [
+      73303,
+      23164
+    ]
+  },
+  {
+    "image_tag": "Solid Tissue Normal",
+    "image_path": "/tmp/train-data/7b450ae8-c40a-4fbe-9e3c-7407f5f4fea7/TCGA-FP-7829-11A-01-TS1.293470f2-1c5f-4acd-b794-92bcaa4d6503.svs",
+    "dataset": "Solid Tissue Normal",
+    "participant": "7829",
+    "size_gb": 0.154972147,
+    "size_img": [
+      22848,
+      28186
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/591ea373-23fc-4069-b5a8-aac67a385e93/TCGA-FP-7829-01A-01-TS1.3f986e0a-ea16-4da0-a8bd-b02f7980dbc0.svs",
+    "dataset": "Primary Tumor",
+    "participant": "7829",
+    "size_gb": 0.060251923,
+    "size_img": [
+      13943,
+      12458
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/da5906f2-1c2a-446c-b8cc-dfc2e9d34545/TCGA-HF-7133-01A-01-TS1.cfaa7209-62da-4332-a7fb-d22eff0aab3f.svs",
+    "dataset": "Primary Tumor",
+    "participant": "7133",
+    "size_gb": 0.075157847,
+    "size_img": [
+      49880,
+      17809
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/6dddbeaf-8224-4038-97d1-08ffddfcdbad/TCGA-HF-7133-01A-01-BS1.dfd5c67d-9681-4c5e-9a31-40bbe3f96e15.svs",
+    "dataset": "Primary Tumor",
+    "participant": "7133",
+    "size_gb": 0.201478651,
+    "size_img": [
+      60432,
+      33362
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/fe4684c5-c035-4b1d-a4d2-29e56a8f4ba0/TCGA-CG-4437-01A-01-BS1.80bcd40b-1523-4a62-9dcd-5e97827a2f55.svs",
+    "dataset": "Primary Tumor",
+    "participant": "4437",
+    "size_gb": 0.132528509,
+    "size_img": [
+      22001,
+      19191
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/dde9aebf-20ab-4265-a03a-eb6a22703b55/TCGA-CG-4437-01A-01-TS1.da12dc1a-cd2a-4fc2-a864-2cbc3c2a9117.svs",
+    "dataset": "Primary Tumor",
+    "participant": "4437",
+    "size_gb": 0.092449389,
+    "size_img": [
+      20000,
+      14844
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/96f7e6ea-6f04-47da-9561-e0b9c3ac4e96/TCGA-CG-4306-01A-01-BS1.613fd086-be99-44b6-bae5-9a7baf265cda.svs",
+    "dataset": "Primary Tumor",
+    "participant": "4306",
+    "size_gb": 0.140297417,
+    "size_img": [
+      36001,
+      23002
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/3fba0dfa-6d7d-4a7f-96e7-7e841ac1e1d8/TCGA-CG-4306-01A-01-TS1.32559eb9-e60d-4ad1-bb31-e33adf7ae734.svs",
+    "dataset": "Primary Tumor",
+    "participant": "4306",
+    "size_gb": 0.109568947,
+    "size_img": [
+      32001,
+      21185
+    ]
+  },
+  {
+    "image_tag": "Solid Tissue Normal",
+    "image_path": "/tmp/train-data/02bc3e72-688b-4564-a156-e1c507fdd9fb/TCGA-SW-A7EA-11A-01-TS1.35D9692B-C1D6-4901-92B8-525FD3715757.svs",
+    "dataset": "Solid Tissue Normal",
+    "participant": "A7EA",
+    "size_gb": 0.059066749,
+    "size_img": [
+      52028,
+      13789
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/8941b256-4f6c-4e19-a6b1-68306d64051f/TCGA-SW-A7EA-01A-01-TSA.6C194776-4145-428A-AB45-32D0B01DE06B.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A7EA",
+    "size_gb": 0.320174887,
+    "size_img": [
+      75696,
+      24332
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/ba203dfa-23ea-4791-a475-5e1c91df173b/TCGA-D7-5579-01A-01-BS1.abe1f5fe-e759-4804-ba40-b02d74d58700.svs",
+    "dataset": "Primary Tumor",
+    "participant": "5579",
+    "size_gb": 0.065821179,
+    "size_img": [
+      18000,
+      12019
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/d1dece28-c04b-4f56-ba27-a10956a72a9a/TCGA-D7-5579-01A-01-TS1.b5a2008b-3618-443d-992c-1e1624ebdd2c.svs",
+    "dataset": "Primary Tumor",
+    "participant": "5579",
+    "size_gb": 0.066658679,
+    "size_img": [
+      22001,
+      11426
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/86bf4af8-a8a5-43a2-9a9b-691f83510e48/TCGA-D7-6522-01A-01-BS1.b29cb8fb-d9c2-46fe-8394-cd3ef0dcc3c2.svs",
+    "dataset": "Primary Tumor",
+    "participant": "6522",
+    "size_gb": 0.045769091,
+    "size_img": [
+      23904,
+      24965
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/6e729669-7a52-406a-a3bc-2f16dba07cc3/TCGA-D7-6522-01A-01-TS1.666821c4-3332-411a-bd31-a9286469d97d.svs",
+    "dataset": "Primary Tumor",
+    "participant": "6522",
+    "size_gb": 0.045207893,
+    "size_img": [
+      29880,
+      25158
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/f667b59d-542c-4823-871a-7bdd982e91b9/TCGA-CG-4440-01A-01-BS1.9c53e9a6-bf67-40e8-8099-2f0de5ed4ed9.svs",
+    "dataset": "Primary Tumor",
+    "participant": "4440",
+    "size_gb": 0.085611243,
+    "size_img": [
+      14000,
+      14032
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/610b0c06-1553-46ed-8cde-3b463dcbb731/TCGA-CG-4440-01A-01-TS1.044cda6b-c3ca-4c34-adf8-bdb7cc50f8c1.svs",
+    "dataset": "Primary Tumor",
+    "participant": "4440",
+    "size_gb": 0.043257659,
+    "size_img": [
+      12000,
+      11459
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/b3bc01dc-6b4c-4ff4-b1c1-a4a44153906b/TCGA-CG-4443-01A-01-BS1.8c7a18fd-3861-43ad-ad27-a09cdd8d9a4e.svs",
+    "dataset": "Primary Tumor",
+    "participant": "4443",
+    "size_gb": 0.102951209,
+    "size_img": [
+      18000,
+      18774
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/570207c3-84c1-4794-b792-a437d585573e/TCGA-CG-4443-01A-01-TS1.5d585f90-be5d-48eb-bbc8-ee9be5702ec9.svs",
+    "dataset": "Primary Tumor",
+    "participant": "4443",
+    "size_gb": 0.032622291,
+    "size_img": [
+      10000,
+      11710
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/9c3b576a-92c5-4b07-a4e4-6bdb754849e2/TCGA-BR-8588-01A-01-TS1.8e13e958-bb63-47a8-9cb1-494352661f03.svs",
+    "dataset": "Primary Tumor",
+    "participant": "8588",
+    "size_gb": 0.228980275,
+    "size_img": [
+      75780,
+      62398
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/c0ceb315-d8e0-4bb5-bf57-0a7e73538514/TCGA-BR-8588-01A-01-BS1.e36259dc-a8e2-429c-950c-3a068dd374b1.svs",
+    "dataset": "Primary Tumor",
+    "participant": "8588",
+    "size_gb": 0.321192311,
+    "size_img": [
+      80576,
+      43419
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/b74042ef-d30a-41f9-ba9c-dde50452e1e4/TCGA-BR-6452-01A-01-TS1.8e50c156-cf9c-4e97-a0a8-e875e143f0c4.svs",
+    "dataset": "Primary Tumor",
+    "participant": "6452",
+    "size_gb": 0.330511421,
+    "size_img": [
+      63746,
+      48947
+    ]
+  },
+  {
+    "image_tag": "Solid Tissue Normal",
+    "image_path": "/tmp/train-data/be1cf9b4-a800-4175-9bd8-802943bc66b8/TCGA-BR-6452-11A-01-TS1.8df02054-06b7-47c1-892b-6e5a295bc677.svs",
+    "dataset": "Solid Tissue Normal",
+    "participant": "6452",
+    "size_gb": 0.084025943,
+    "size_img": [
+      45817,
+      31460
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/36ab927e-d759-45c1-a3af-9cae2ae2cfcc/TCGA-F1-6177-01A-01-TS1.f5b7e812-9685-4f60-a6a5-bd937284b802.svs",
+    "dataset": "Primary Tumor",
+    "participant": "6177",
+    "size_gb": 0.051215673,
+    "size_img": [
+      24940,
+      27489
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/97b5fe01-cf6d-43a0-9958-2db9ef4ffd2e/TCGA-F1-6177-01A-01-BS1.896352cb-7520-4c98-aed6-a86f723d999f.svs",
+    "dataset": "Primary Tumor",
+    "participant": "6177",
+    "size_gb": 0.074141221,
+    "size_img": [
+      25899,
+      28260
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/36a554d9-b487-41c9-9321-c5f94662eeb6/TCGA-CG-4449-01A-01-BS1.ed9df086-2de4-4860-a0c9-acf39d9567ce.svs",
+    "dataset": "Primary Tumor",
+    "participant": "4449",
+    "size_gb": 0.081334747,
+    "size_img": [
+      16000,
+      17739
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/e57f2a52-eef0-43cd-be50-d0ac74e314bc/TCGA-CG-4449-01A-01-TS1.3789aa29-21d6-4a49-a786-9668d645d288.svs",
+    "dataset": "Primary Tumor",
+    "participant": "4449",
+    "size_gb": 0.065585677,
+    "size_img": [
+      14000,
+      16832
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/1b4da537-1e5c-43bf-ae0a-3046a2772b6c/TCGA-D7-A4YV-01A-01-TS1.2437CBE2-8D14-4301-9DD6-A74BA29B1326.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A4YV",
+    "size_gb": 0.235769965,
+    "size_img": [
+      97673,
+      27379
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/4ccd6cbe-366c-41d5-9f07-436cd6959580/TCGA-VQ-A8PO-01A-01-TS1.AC8863A0-1640-40B7-8B56-998719427B90.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A8PO",
+    "size_gb": 0.146263809,
+    "size_img": [
+      67728,
+      26083
+    ]
+  },
+  {
+    "image_tag": "Solid Tissue Normal",
+    "image_path": "/tmp/train-data/f90fbe59-1e4a-49d7-9fc9-8badb818fb4f/TCGA-BR-4366-11A-01-TS1.54348e49-2197-431a-9d44-b01c48a14a2f.svs",
+    "dataset": "Solid Tissue Normal",
+    "participant": "4366",
+    "size_gb": 0.218839635,
+    "size_img": [
+      34001,
+      41208
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/baf71d05-5698-412c-a625-809bbc9dc818/TCGA-D7-8578-01A-01-BS1.d791fc4b-7f80-4355-8d50-4b423389dc21.svs",
+    "dataset": "Primary Tumor",
+    "participant": "8578",
+    "size_gb": 0.087579145,
+    "size_img": [
+      25896,
+      34847
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/799d861a-8a46-477e-9889-2a6c99805360/TCGA-D7-A4YT-01A-01-TS1.4C115C5B-A653-48F0-B461-98DECF8BABBA.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A4YT",
+    "size_gb": 0.192588001,
+    "size_img": [
+      85225,
+      27199
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/5235d585-6e65-4eb2-8490-db6406b37301/TCGA-RD-A8N5-01A-01-TS1.D3672CE3-1535-4732-AB32-46B2C2DE7826.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A8N5",
+    "size_gb": 0.160720767,
+    "size_img": [
+      105576,
+      27770
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/3277035c-54a2-4226-b196-bb1b795751ed/TCGA-BR-A452-01A-09-TSI.BD3971E5-7F5A-4798-AA61-67CBFBCB01C8.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A452",
+    "size_gb": 0.181688037,
+    "size_img": [
+      108528,
+      24343
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/d743db8e-287a-4ac9-a421-f20691917381/TCGA-BR-6455-01A-01-TS1.5090ae20-085f-47de-8fbe-64efe27e6db3.svs",
+    "dataset": "Primary Tumor",
+    "participant": "6455",
+    "size_gb": 0.283376775,
+    "size_img": [
+      43825,
+      48947
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/59e47fa0-6b24-4434-b8a2-2ce07e83ddf4/TCGA-B7-A5TN-01A-02-TSB.95C5DF7E-E0DC-4C9D-B141-66E8B3593FA1.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A5TN",
+    "size_gb": 0.292133547,
+    "size_img": [
+      86631,
+      36791
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/bd52fcf9-e84d-44be-bf2a-8aa6202274ea/TCGA-VQ-A8PD-01A-01-TS1.95F606EF-6FF4-44DE-88C8-D73B888457FE.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A8PD",
+    "size_gb": 0.311483327,
+    "size_img": [
+      113543,
+      25291
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/bf645387-f78a-43af-9870-922f3f2a9e3b/TCGA-BR-A44U-01A-01-TSA.B04E47AB-B76C-436F-9ADE-82A3D6895F6B.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A44U",
+    "size_gb": 0.361541797,
+    "size_img": [
+      113287,
+      28005
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/3e8e07be-97fe-47f6-ae82-df788773eced/TCGA-IN-A6RR-01A-01-TSA.25CDD1C2-DA48-4C2E-B439-099FCCB0659A.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A6RR",
+    "size_gb": 0.188645613,
+    "size_img": [
+      98055,
+      23220
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/9da2ac22-4c46-4ea8-a561-5ac26bcf484b/TCGA-VQ-A91W-01A-01-TS1.5AC0C49B-D9BD-4BAC-B92A-F3CB353C82BE.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A91W",
+    "size_gb": 0.097510093,
+    "size_img": [
+      63743,
+      22180
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/57d06128-28b2-4914-a8a9-fd6609e222bc/TCGA-HU-A4H2-01A-01-TS1.3CE19F02-D8F5-4C91-8000-D17772DEABEF.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A4H2",
+    "size_gb": 0.268455213,
+    "size_img": [
+      81871,
+      34979
+    ]
+  },
+  {
+    "image_tag": "Solid Tissue Normal",
+    "image_path": "/tmp/train-data/d790dead-4bf4-4ab4-9817-fbb7f877d749/TCGA-BR-7197-11A-01-TS1.ef2e3283-cb1a-4a14-9627-d6d8d3745d0d.svs",
+    "dataset": "Solid Tissue Normal",
+    "participant": "7197",
+    "size_gb": 0.136743833,
+    "size_img": [
+      51408,
+      43557
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/332aa071-32c2-497b-83f3-5fe911ac5fcb/TCGA-BR-7707-01A-01-TS1.5dd41abb-a7a3-4388-95e5-b0812f0f12fb.svs",
+    "dataset": "Primary Tumor",
+    "participant": "7707",
+    "size_gb": 0.065916255,
+    "size_img": [
+      17267,
+      15507
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/a95f70b4-4559-407b-a4b0-7d233cf56cb1/TCGA-BR-A4QI-01A-01-TSA.6750B0BF-6D81-4178-A9C0-99FE6F48847C.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A4QI",
+    "size_gb": 0.227445125,
+    "size_img": [
+      100912,
+      33911
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/fdccdf5c-3193-4965-9903-6ec02ef70e07/TCGA-VQ-A922-01A-01-TS1.0FF02899-57F8-419E-8872-C6EDE53F4D3C.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A922",
+    "size_gb": 0.189899983,
+    "size_img": [
+      85655,
+      20884
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/ce89c2f7-a673-4867-8514-d2d6669a0499/TCGA-RD-A8N9-01A-01-TS1.95F5174E-F39C-4C85-849C-E9E929CBAA5C.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A8N9",
+    "size_gb": 0.202996733,
+    "size_img": [
+      103584,
+      27284
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/b8f7b64f-53e4-4877-9fb4-570caba2d1cf/TCGA-CD-5804-01A-01-BS1.1090f168-bef5-49f5-9623-eef5b6e7adcd.svs",
+    "dataset": "Primary Tumor",
+    "participant": "5804",
+    "size_gb": 0.294284509,
+    "size_img": [
+      62832,
+      47706
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/c4c266da-1fe2-476c-b055-b1f5d456220e/TCGA-BR-A44T-01A-03-TSC.3C041ED7-C60E-4C14-8B96-D9B479FDE666.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A44T",
+    "size_gb": 0.192239119,
+    "size_img": [
+      126616,
+      15065
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/fcb1db74-ea5b-48b2-ae97-8da4d607945b/TCGA-VQ-A8P2-01A-01-TS1.7ACFD507-4BE2-4123-B463-6BB2375E7B95.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A8P2",
+    "size_gb": 0.266273765,
+    "size_img": [
+      85655,
+      33726
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/327b3fca-520e-43a0-9b24-5394e2421244/TCGA-VQ-A94P-01A-01-TS1.2F13D4DD-7B11-4610-B305-09D9A04490D2.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A94P",
+    "size_gb": 0.152215469,
+    "size_img": [
+      105576,
+      21339
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/8ab0861c-f210-4805-b668-a83df8cbcbb0/TCGA-HU-A4GD-01A-01-TS1.C1BFE9D2-94E9-4588-9A00-7B7798BDF396.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A4GD",
+    "size_gb": 0.244652587,
+    "size_img": [
+      94248,
+      33771
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/54b314a5-f5ea-46ce-aa75-a5bd1ab6b77a/TCGA-CD-A48A-01A-01-TSA.0C77FBEE-72C6-4BE4-8575-B752139402FF.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A48A",
+    "size_gb": 0.144052465,
+    "size_img": [
+      98056,
+      18927
+    ]
+  },
+  {
+    "image_tag": "Solid Tissue Normal",
+    "image_path": "/tmp/train-data/1201296d-abf9-4c9b-8d71-453eedd94d02/TCGA-BR-6454-11A-01-TS1.56163865-0498-46c0-b57a-fdd45c467b22.svs",
+    "dataset": "Solid Tissue Normal",
+    "participant": "6454",
+    "size_gb": 0.115338745,
+    "size_img": [
+      65738,
+      42025
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/7655e020-6d13-499e-b790-896fdddfa0b7/TCGA-D7-8574-01A-01-TS1.bae03428-1741-49a2-bd10-df4b9e7b3a26.svs",
+    "dataset": "Primary Tumor",
+    "participant": "8574",
+    "size_gb": 0.055372177,
+    "size_img": [
+      19920,
+      20352
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/74bbf515-bebb-45c7-9343-941b5e3c39ec/TCGA-VQ-A8PY-01A-01-TS1.E112FA08-CE6B-4D18-9B5C-CDC6267B4C0E.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A8PY",
+    "size_gb": 0.158967785,
+    "size_img": [
+      73704,
+      24973
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/c4fae759-ef05-45bc-969b-b9f0d88868c4/TCGA-D7-A6EZ-01A-01-TS1.80EA7318-C520-4E4E-B6ED-40E2B09DA129.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A6EZ",
+    "size_gb": 0.310936637,
+    "size_img": [
+      93296,
+      28016
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/65bc4bdc-1b6a-4d59-998d-ddec39fc4640/TCGA-BR-A4IU-01A-02-TSB.726A9E0A-F2E1-4E88-9DB7-720EC4848CB5.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A4IU",
+    "size_gb": 0.249374431,
+    "size_img": [
+      117095,
+      25065
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/65019ec9-f09a-42f3-bfae-51031c86fee0/TCGA-VQ-A8PC-01A-01-TS1.2986CD3B-8500-43F1-9E4B-4FFF89D79365.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A8PC",
+    "size_gb": 0.108660565,
+    "size_img": [
+      75695,
+      21530
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/cfd461e9-6268-4582-95dd-2e935dbd02b3/TCGA-IN-A6RS-01A-01-TSA.A6D69BB1-4140-44AE-8FA7-8142A1F907D2.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A6RS",
+    "size_gb": 0.231397675,
+    "size_img": [
+      101863,
+      24376
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/9e08bac5-1288-4a6d-823f-ca203c1248f4/TCGA-D7-A6F0-01A-01-TS1.10D4540F-6474-43E4-B482-8BF7A6817F9A.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A6F0",
+    "size_gb": 0.164398663,
+    "size_img": [
+      85680,
+      23108
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/cace61dd-fa80-4b0f-8805-7b78b973fb35/TCGA-BR-8487-01A-01-TS1.7c6c7fbc-e5b0-46ae-8716-9c18d54d7e47.svs",
+    "dataset": "Primary Tumor",
+    "participant": "8487",
+    "size_gb": 0.050234981,
+    "size_img": [
+      16000,
+      14423
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/c999d4c3-5e12-49eb-9880-c54900bb7a88/TCGA-D7-A748-01A-01-TS1.6A3E918C-F845-45E7-833C-77CB9A09FE10.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A748",
+    "size_gb": 0.359216575,
+    "size_img": [
+      157080,
+      33519
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/b1c066f1-8144-4992-9273-133754223a6f/TCGA-BR-A4IZ-01A-03-TSC.E7200BE8-C00C-4A2E-A22E-68EB5AB0808A.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A4IZ",
+    "size_gb": 0.285422651,
+    "size_img": [
+      93295,
+      38445
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/c4d10be7-f627-45a0-828d-e6854e3f6d7b/TCGA-MX-A666-01A-01-TS1.4C126BFB-0651-45C4-928B-E2A5EDA8B4A6.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A666",
+    "size_gb": 0.151343551,
+    "size_img": [
+      86632,
+      22119
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/d786d4b2-48c6-4c56-b1c0-95c6109a4858/TCGA-CD-5801-01A-01-TS1.b2abf59f-2a8d-4ccc-95d3-61ae02b120a6.svs",
+    "dataset": "Primary Tumor",
+    "participant": "5801",
+    "size_gb": 0.326398967,
+    "size_img": [
+      33320,
+      27779
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/13f70261-686a-4035-907d-6d1571870d8c/TCGA-HU-A4GF-01A-01-TS1.D2A0DF6F-AED1-4863-9593-F767F85B5B31.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A4GF",
+    "size_gb": 0.186476239,
+    "size_img": [
+      76160,
+      32685
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/7dc61861-901e-4eb8-9aa4-16b67a545cbd/TCGA-IN-A6RP-01A-02-TSB.1DDDB5B4-9E8E-4E7D-86DB-59BE3F4BFD10.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A6RP",
+    "size_gb": 0.195711725,
+    "size_img": [
+      86631,
+      29420
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/c58281f7-e62f-4894-8153-138d18ae4b70/TCGA-VQ-A91S-01A-01-TS1.FE5C302A-3133-42FD-B4D5-AD7856715BC4.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A91S",
+    "size_gb": 0.088285635,
+    "size_img": [
+      65736,
+      18685
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/4a6aa6cd-be71-43b5-be68-3a15ea29cbf0/TCGA-VQ-A8DV-01A-01-TS1.E87FE198-F0C0-4C88-9EF5-7F1B814F43F3.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A8DV",
+    "size_gb": 0.370708659,
+    "size_img": [
+      107567,
+      34494
+    ]
+  },
+  {
+    "image_tag": "Solid Tissue Normal",
+    "image_path": "/tmp/train-data/c04b4148-7631-4fc9-bbaf-8cc4515452eb/TCGA-IN-AB1V-11A-01-TS1.8958CDDF-48A6-4AD9-8916-5E47275A83C0.svs",
+    "dataset": "Solid Tissue Normal",
+    "participant": "AB1V",
+    "size_gb": 0.129406359,
+    "size_img": [
+      54029,
+      23883
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/062fc410-c51c-4a0a-a6bb-8e004e3d3ebb/TCGA-IN-A6RL-01A-01-TSA.616EF818-5401-47F8-8207-0D296849C3AF.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A6RL",
+    "size_gb": 0.211169731,
+    "size_img": [
+      81871,
+      32848
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/3a186ae5-9b5b-4a7b-b7d5-33bdef7fc916/TCGA-KB-A93H-01A-01-TS1.890A9067-6FC1-4F91-A6B9-ED2E41DC5CB6.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A93H",
+    "size_gb": 0.124910937,
+    "size_img": [
+      73704,
+      23526
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/37b10e36-8cec-4d8a-97b2-1decd5d18970/TCGA-BR-A4J1-01A-01-TSA.C6EB79BC-D699-44B4-9CA3-04AFE0576B44.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A4J1",
+    "size_gb": 0.322432913,
+    "size_img": [
+      87140,
+      38155
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/59c99451-02df-4722-98c8-25a3ae62579a/TCGA-VQ-A8E3-01A-01-TS1.D13641D4-1E20-4576-AE5B-ADB6A9DB4C90.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A8E3",
+    "size_gb": 0.129352161,
+    "size_img": [
+      119520,
+      19599
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/b9c1bddc-9160-47db-977c-8678b44976cd/TCGA-KB-A93G-01A-01-TS1.B4894328-7FA5-43B8-AB78-31C054644C0A.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A93G",
+    "size_gb": 0.127436816,
+    "size_img": [
+      83663,
+      19301
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/4b82130e-0d28-4516-a4b5-90001dfa738f/TCGA-MX-A5UG-01A-02-TSB.0EBB392E-E561-4A39-81E3-5403599C6BE3.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A5UG",
+    "size_gb": 0.301168559,
+    "size_img": [
+      102461,
+      36022
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/5d21b3e0-4e98-49fe-9081-ad4f1c550e89/TCGA-IN-A7NR-01A-01-TSA.78573E4E-1A66-409A-AB9D-7BD1262CF596.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A7NR",
+    "size_gb": 0.276200231,
+    "size_img": [
+      107567,
+      34494
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/46e3a0e3-52c3-437b-9686-f1c93652db9b/TCGA-ZQ-A9CR-01A-01-TS1.1DE6C62C-CC65-41AD-A1BA-1D7302D88883.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A9CR",
+    "size_gb": 0.225408831,
+    "size_img": [
+      117527,
+      44469
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/c5d4e51f-85af-4987-8219-70bcc3f85028/TCGA-RD-A8N6-01A-01-TS1.9CB8ECD5-57A3-4C25-BFAF-26CE9506A31F.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A8N6",
+    "size_gb": 0.323529877,
+    "size_img": [
+      119520,
+      33907
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/421a8fc9-b59f-431f-9550-5013525fbc1e/TCGA-BR-8077-01A-01-TS1.395a255a-5d81-4854-bd8f-4a16675ecf1b.svs",
+    "dataset": "Primary Tumor",
+    "participant": "8077",
+    "size_gb": 0.113676408,
+    "size_img": [
+      19919,
+      14856
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/f2d19cbe-d24a-4839-b293-7595e37d4618/TCGA-VQ-A925-01A-01-TS1.205C3106-CBAD-4EFA-9217-45EF88D95F59.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A925",
+    "size_gb": 0.314652957,
+    "size_img": [
+      89639,
+      29601
+    ]
+  },
+  {
+    "image_tag": "Solid Tissue Normal",
+    "image_path": "/tmp/train-data/eefac8d4-ef9f-409d-8ac7-a0c214bd5da3/TCGA-BR-6710-11A-01-TS1.077944a5-ff87-4652-a929-dc4178d4f044.svs",
+    "dataset": "Solid Tissue Normal",
+    "participant": "6710",
+    "size_gb": 0.335456631,
+    "size_img": [
+      69496,
+      35777
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/5c2f2b37-e3f1-4a0b-ab1f-249c6385127b/TCGA-RD-A7BT-01A-01-TS1.7B7B4758-0EBB-4393-A2E9-64277F34FEF2.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A7BT",
+    "size_gb": 0.192066077,
+    "size_img": [
+      85655,
+      21994
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/f25b1908-b6b1-48bb-b040-e456b47b793d/TCGA-HU-A4GJ-01A-01-TS1.0729CBEB-4D45-4BDF-833F-68AFF63BE1DC.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A4GJ",
+    "size_gb": 0.075103987,
+    "size_img": [
+      82824,
+      18680
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/1d3486c2-40c8-4405-a55e-c8ed2fdd1639/TCGA-BR-A4QM-01A-01-TSA.33EFE2BB-C0EF-4172-969F-C6F4172FF2D7.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A4QM",
+    "size_gb": 0.308543483,
+    "size_img": [
+      144595,
+      26851
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/ca13b3f4-a941-430e-8dda-e67fce09e45a/TCGA-BR-A4PF-01A-01-TSA.6E316DA3-7333-458B-A412-16FAF2B1D1EB.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A4PF",
+    "size_gb": 0.293652469,
+    "size_img": [
+      116825,
+      22929
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/d07fb832-8f80-4e9c-9fc3-02f6849a800b/TCGA-BR-A4CQ-01A-01-TSA.DFCFCB13-F7B0-4744-9CDA-65D349223A70.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A4CQ",
+    "size_gb": 0.307860653,
+    "size_img": [
+      99007,
+      37311
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/63581e78-4fc3-4b02-8e81-92fa2c6459eb/TCGA-VQ-A8P5-01A-01-TS1.B8563794-9D3B-4C03-A979-DCA9EDFA0300.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A8P5",
+    "size_gb": 0.189662169,
+    "size_img": [
+      91631,
+      22779
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/be749901-09d3-4295-82d1-34f386872afb/TCGA-KB-A6F7-01A-01-TS1.FF3CF754-05C1-4FE3-962B-C265FB9C5E6B.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A6F7",
+    "size_gb": 0.386700325,
+    "size_img": [
+      124486,
+      29008
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/25f56cfa-7fc0-459e-872f-84f9e4f65441/TCGA-HU-A4H6-01A-01-TS1.C11E39B5-648D-431E-90A8-BDCA53CC9603.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A4H6",
+    "size_gb": 0.203829009,
+    "size_img": [
+      81871,
+      27115
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/5b6315c9-ff93-4f60-9fe5-910be58e7ee0/TCGA-D7-A6EV-01A-01-TS1.4E855E86-6CB5-4926-9A75-DFB1893203CC.svs",
+    "dataset": "Primary Tumor",
+    "participant": "A6EV",
+    "size_gb": 0.215004571,
+    "size_img": [
+      99960,
+      24045
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/6e7798f9-badb-46a2-800c-1f20f9a9467e/TCGA-CG-5720-01A-01-TS1.d91e0ea8-4a51-431e-9884-912a363688ca.svs",
+    "dataset": "Primary Tumor",
+    "participant": "5720",
+    "size_gb": 0.087023387,
+    "size_img": [
+      18000,
+      14706
+    ]
+  },
+  {
+    "image_tag": "Solid Tissue Normal",
+    "image_path": "/tmp/train-data/ecba26ed-c176-4496-9ade-3fc3f2a8bf3d/TCGA-CG-5720-11A-01-TS1.b76a5bba-176a-4ced-8c99-37692a399681.svs",
+    "dataset": "Solid Tissue Normal",
+    "participant": "5720",
+    "size_gb": 0.059696697,
+    "size_img": [
+      14000,
+      10980
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/f9bf4028-7027-432c-b8d6-efb6639563b4/TCGA-CG-5720-01A-01-BS1.9f897eb6-d54f-4116-b75b-a7041da0096b.svs",
+    "dataset": "Primary Tumor",
+    "participant": "5720",
+    "size_gb": 0.042119115,
+    "size_img": [
+      14000,
+      11093
+    ]
+  },
+  {
+    "image_tag": "Solid Tissue Normal",
+    "image_path": "/tmp/train-data/bc30bb2d-ea96-4f29-a602-68582a4ba6bb/TCGA-BR-4201-11A-01-BS1.08efafaf-8165-4417-9ae8-bdb3049a8020.svs",
+    "dataset": "Solid Tissue Normal",
+    "participant": "4201",
+    "size_gb": 0.181282521,
+    "size_img": [
+      24001,
+      20479
+    ]
+  },
+  {
+    "image_tag": "Solid Tissue Normal",
+    "image_path": "/tmp/train-data/2b26c693-9993-429c-b31c-197444e38bcc/TCGA-BR-4201-11A-01-TS1.f80cd5fd-9bc7-4cc7-85f8-cd5c2624b5db.svs",
+    "dataset": "Solid Tissue Normal",
+    "participant": "4201",
+    "size_gb": 0.139742789,
+    "size_img": [
+      22001,
+      16777
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/18de1f5a-a963-403e-add9-40a11dd465f4/TCGA-BR-4201-01A-01-TS1.756b8429-5499-4c4a-a855-ef21a9848322.svs",
+    "dataset": "Primary Tumor",
+    "participant": "4201",
+    "size_gb": 0.327775995,
+    "size_img": [
+      34001,
+      37005
+    ]
+  },
+  {
+    "image_tag": "Solid Tissue Normal",
+    "image_path": "/tmp/train-data/b6b5d20c-c3d7-416d-a64f-5b32320ef0fc/TCGA-IN-7808-11A-01-TS1.cdd8b004-8d43-4800-9c6b-3e36f0d1e33b.svs",
+    "dataset": "Solid Tissue Normal",
+    "participant": "7808",
+    "size_gb": 0.141285433,
+    "size_img": [
+      30464,
+      24457
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/8794b04f-2975-4b72-b1b9-d607c955f510/TCGA-IN-7808-01A-01-TS1.1b98f7ad-19bf-4277-9d13-cf99b1a26c41.svs",
+    "dataset": "Primary Tumor",
+    "participant": "7808",
+    "size_gb": 0.165346045,
+    "size_img": [
+      49880,
+      46969
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/cd650a9a-26dd-496a-a5b5-cfd4baf73fcd/TCGA-IN-7808-01A-01-BS1.58942fbd-42c9-42a3-bb02-c7eb85217481.svs",
+    "dataset": "Primary Tumor",
+    "participant": "7808",
+    "size_gb": 0.172485743,
+    "size_img": [
+      52758,
+      42172
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/9bcbdae8-c362-4e1c-9c20-7af3cc0c6b90/TCGA-BR-6453-01A-01-BS1.547e8c35-cd51-4f9a-987a-b8a55bf63729.svs",
+    "dataset": "Primary Tumor",
+    "participant": "6453",
+    "size_gb": 0.297441585,
+    "size_img": [
+      66640,
+      60995
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/f1fbbacf-3b9b-4fb6-aec4-bf5189d2c1f8/TCGA-BR-6453-01A-01-TS1.65842cd8-24da-454e-849d-419e1586e152.svs",
+    "dataset": "Primary Tumor",
+    "participant": "6453",
+    "size_gb": 0.167661319,
+    "size_img": [
+      47809,
+      48480
+    ]
+  },
+  {
+    "image_tag": "Solid Tissue Normal",
+    "image_path": "/tmp/train-data/14da4ac0-e1a8-4161-8a96-c89febb9ae3f/TCGA-BR-6453-11A-01-TS1.531beef0-689d-4c05-bee2-4caf9bd33687.svs",
+    "dataset": "Solid Tissue Normal",
+    "participant": "6453",
+    "size_gb": 0.184656713,
+    "size_img": [
+      65738,
+      40498
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/1f729ee7-ac77-4d2a-b00d-2b6d1804dd5f/TCGA-CG-5721-01A-01-BS1.048c574a-3063-4c88-ae02-575486d0deae.svs",
+    "dataset": "Primary Tumor",
+    "participant": "5721",
+    "size_gb": 0.157048141,
+    "size_img": [
+      24001,
+      17424
+    ]
+  },
+  {
+    "image_tag": "Solid Tissue Normal",
+    "image_path": "/tmp/train-data/78a58eac-9aef-4a2f-85ba-8cd5b19d0738/TCGA-CG-5721-11A-01-TS1.68c502b1-1a4d-4051-9b4e-8b3e7a74f70d.svs",
+    "dataset": "Solid Tissue Normal",
+    "participant": "5721",
+    "size_gb": 0.027476315,
+    "size_img": [
+      10000,
+      8641
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/481f3e19-1a0c-44d7-ab7e-bfea25b8d632/TCGA-CG-5721-01A-01-TS1.e675efb9-939d-4ef7-83af-18595ff1c426.svs",
+    "dataset": "Primary Tumor",
+    "participant": "5721",
+    "size_gb": 0.111913569,
+    "size_img": [
+      20000,
+      15233
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/e433919a-b51f-42b0-ba55-63fecc936ec8/TCGA-CG-5726-01A-01-TS1.887567b1-1586-4704-bb57-f4cc1f0474b2.svs",
+    "dataset": "Primary Tumor",
+    "participant": "5726",
+    "size_gb": 0.075506153,
+    "size_img": [
+      22001,
+      11300
+    ]
+  },
+  {
+    "image_tag": "Solid Tissue Normal",
+    "image_path": "/tmp/train-data/4d06b4ac-4fc6-47d0-9ff2-977b8fd81f57/TCGA-CG-5726-11A-01-TS1.908ee663-4398-4515-b2c2-16301f2ad493.svs",
+    "dataset": "Solid Tissue Normal",
+    "participant": "5726",
+    "size_gb": 0.040595613,
+    "size_img": [
+      8000,
+      10805
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/1ad32f16-eacd-43c8-bfa9-9837eed94dfb/TCGA-CG-5726-01A-01-BS1.f7ac1ec6-2de0-417d-be7a-b8ca4dd05ec1.svs",
+    "dataset": "Primary Tumor",
+    "participant": "5726",
+    "size_gb": 0.060471371,
+    "size_img": [
+      18000,
+      13168
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/838cc938-b38c-47d2-84ed-8e879417cce6/TCGA-CG-5733-01A-01-TS1.0ef73b9c-dc43-4437-88ae-7a5625b6aea3.svs",
+    "dataset": "Primary Tumor",
+    "participant": "5733",
+    "size_gb": 0.081078057,
+    "size_img": [
+      18000,
+      16354
+    ]
+  },
+  {
+    "image_tag": "Solid Tissue Normal",
+    "image_path": "/tmp/train-data/9957796a-73df-4683-94b5-01bb0de0d78b/TCGA-CG-5733-11A-01-TS1.0aa37ee0-4106-41d7-aa45-476b08af8ded.svs",
+    "dataset": "Solid Tissue Normal",
+    "participant": "5733",
+    "size_gb": 0.020198649,
+    "size_img": [
+      8000,
+      9528
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/e3cc7675-f146-4f20-8b86-efbdf91ad924/TCGA-CG-5733-01A-01-BS1.29233678-8d9c-4b7e-818f-6adb378abf49.svs",
+    "dataset": "Primary Tumor",
+    "participant": "5733",
+    "size_gb": 0.081697373,
+    "size_img": [
+      16000,
+      17242
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/b9f7c92b-42ba-4764-9b18-04ba6dc5ab5b/TCGA-BR-4255-01A-01-TS1.e2273c4a-d186-4a79-bafa-6dee208bcbfd.svs",
+    "dataset": "Primary Tumor",
+    "participant": "4255",
+    "size_gb": 0.346293735,
+    "size_img": [
+      42001,
+      24713
+    ]
+  },
+  {
+    "image_tag": "Solid Tissue Normal",
+    "image_path": "/tmp/train-data/a5ccddb6-63eb-4762-a8ab-145fc95232d3/TCGA-BR-4255-11A-01-TS1.b3258aa0-e1af-402d-b0be-0051c2299a59.svs",
+    "dataset": "Solid Tissue Normal",
+    "participant": "4255",
+    "size_gb": 0.327817871,
+    "size_img": [
+      32001,
+      32906
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/3375769c-35f8-4974-adf2-95f12480d60d/TCGA-BR-4255-01A-01-BS1.b1a95d7a-a11b-41e6-a490-fb4160d1ceae.svs",
+    "dataset": "Primary Tumor",
+    "participant": "4255",
+    "size_gb": 0.354264379,
+    "size_img": [
+      44002,
+      23580
+    ]
+  },
+  {
+    "image_tag": "Solid Tissue Normal",
+    "image_path": "/tmp/train-data/d920e94c-30eb-4d51-9396-4a8992afd914/TCGA-BR-4255-11A-01-BS1.e681b530-2503-413a-af12-9eb23f245774.svs",
+    "dataset": "Solid Tissue Normal",
+    "participant": "4255",
+    "size_gb": 0.295599271,
+    "size_img": [
+      26001,
+      34257
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/9f7be58e-de84-40de-bb7d-d1c648d74b4f/TCGA-BR-4370-01A-01-BS1.731932d0-5d58-4608-86ce-14af0bbfabfe.svs",
+    "dataset": "Primary Tumor",
+    "participant": "4370",
+    "size_gb": 0.295928491,
+    "size_img": [
+      24001,
+      32470
+    ]
+  },
+  {
+    "image_tag": "Solid Tissue Normal",
+    "image_path": "/tmp/train-data/7ebda02d-8615-44f3-86b1-5605c9a6b7f3/TCGA-BR-4370-11A-01-BS1.9159a0b8-332d-44c3-96aa-9a9e873e975e.svs",
+    "dataset": "Solid Tissue Normal",
+    "participant": "4370",
+    "size_gb": 0.336271849,
+    "size_img": [
+      42001,
+      36049
+    ]
+  },
+  {
+    "image_tag": "Primary Tumor",
+    "image_path": "/tmp/train-data/298c95de-4177-4cd5-b851-12836c2bfabe/TCGA-BR-4370-01A-01-TS1.7844a109-911a-48d4-88ea-0dc4b604c708.svs",
+    "dataset": "Primary Tumor",
+    "participant": "4370",
+    "size_gb": 0.314170593,
+    "size_img": [
+      28001,
+      35294
+    ]
+  },
+  {
+    "image_tag": "Solid Tissue Normal",
+    "image_path": "/tmp/train-data/f332f502-5cb6-4b90-8d65-d69a5038e68d/TCGA-BR-4370-11A-01-TS1.262c517e-8ba4-4b4d-b7b8-00c2e4d366c6.svs",
+    "dataset": "Solid Tissue Normal",
+    "participant": "4370",
+    "size_gb": 0.388315277,
+    "size_img": [
+      42001,
+      36181
+    ]
+  }
+]
