@@ -3,6 +3,7 @@ import boto3
 import os
 import glob
 import builtins
+import slideio
 
 
 class S3FileManager:
@@ -69,6 +70,14 @@ class S3FileManager:
         else:
             print("Apenas uma instância de S3FileManager pode funcionar ao mesmo tempo, reinicie o kernel!")
             return
+
+        def open_slide_with_handler(old_func, slide_src, driver):
+            self.use_file(slide_src)
+            return old_func(slide_src, driver)
+
+        old_function = slideio.open_slide
+        new_func_lambda = lambda img_path, driver='AUTO': open_slide_with_handler(old_function, img_path, driver)
+        slideio.open_slide = new_func_lambda
 
     def use_file(self, file_path):
         # If the file_path points to a file that has size larger than 0, just return the file_path
