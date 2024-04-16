@@ -154,6 +154,8 @@ class S3UploadSync:
                 relative_file_path = os.path.relpath(file_path, self.local_dir)
                 key = os.path.join(self.bucket_key, relative_file_path)
                 self.s3.upload_file(file_path, self.bucket_name, key)
+                # remove the file that was uploaded from the local path
+                os.remove(file_path)
                 uploaded_files_count += 1
         # Print the number of uploaded files
         print(f"Uploaded {uploaded_files_count} files to {self.bucket_name}")
