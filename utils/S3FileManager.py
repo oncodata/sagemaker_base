@@ -16,6 +16,7 @@ class S3FileManager:
         self.bucket_name = bucket_name
         self.prefix = prefix
         self.local_dir = local_dir
+        self.max_used_storage = 10 * 1024 * 1024 * 1024
         self.file_sizes_dict = {}
         if not os.path.exists(local_dir):
             os.makedirs(local_dir)
@@ -93,7 +94,7 @@ class S3FileManager:
         # Get the available storage space
         available_storage = self.calculate_available_storage()
         # if there is less than 5 GB of storage available, delete the least recently accessed file that has size larger than 0
-        if available_storage < 5 * 1024 * 1024 * 1024:
+        if available_storage < self.max_used_storage:
             available_storage = self.delete_unused_files(available_storage)
         # Download from S3 the file and replace the 0 sized file in file_path
         self.s3.download_file(self.bucket_name, key, file_path)
@@ -109,17 +110,31 @@ class S3FileManager:
     # Function that calculates available disk space
     def calculate_available_storage(self):
         total_capacity = shutil.disk_usage(self.local_dir).total
-        total_size = sum(os.path.getsize(f) for f in glob.glob(os.path.join(self.local_dir, '*')))
+        file_sizes = []
+
+        # Walk through the directory tree starting from 'code' directory
+        for root, dirs, files in os.walk(self.local_dir):
+            # Iterate over all files in the current directory
+            for file in files:
+                # Construct the full path of the file
+                file_path = os.path.join(root, file)
+                # Append the file path to the list
+                file_sizes.append(os.path.getsize(file_path))
+        total_size = sum(file_sizes)
+        # print("total_capacity ", total_capacity - total_size)
         return total_capacity - total_size
 
     def delete_unused_files(self, available_storage=None):
         # Delete non 0 sized files that were not accessed for recently until there is 5 GB of storage available
         files_to_delete = []
         # Make a list of all files that have more than 0 bytes
-        for file in os.listdir(self.local_dir):
-            file_path = os.path.join(self.local_dir, file)
-            if os.path.isfile(file_path) and os.path.getsize(file_path) > 0:
-                files_to_delete.append(file_path)
+        # Walk through the directory tree starting from 'code' directory
+        for root, dirs, files in os.walk(self.local_dir):
+            # Iterate over all files in the current directory
+            for file in files:
+                file_path = os.path.join(root, file)
+                if os.path.isfile(file_path) and os.path.getsize(file_path) > 500:
+                    files_to_delete.append(file_path)
         # Sort the files from least recently accessed to most recently accessed
         files_to_delete.sort(key=os.path.getatime)
         if available_storage is None:
@@ -127,7 +142,7 @@ class S3FileManager:
         # Delete the least recently accessed file until there is 5 GB of storage available
         # Add to available_storage the size of the deleted file in order to calculate what is left to delete
         for file in files_to_delete:
-            if available_storage < 5 * 1024 * 1024 * 1024:
+            if available_storage < self.max_used_storage:
                 available_storage += os.path.getsize(file)
                 # Replace file with a 0 sized file
                 with open(file, 'w'):
